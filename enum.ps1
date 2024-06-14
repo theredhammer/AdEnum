@@ -6,6 +6,7 @@ function Show-Menu {
 
     Write-Host "==================="
     Write-Host $Title
+    Write-Host " ¡¡Recuerda tener activado!!: powershell -ep bypass"
     Write-Host "==================="
     Write-Host "1. Buscar todos los usuarios con informacion del AD"
     Write-Host "2. Buscar todos nombres de usuarios del AD"
